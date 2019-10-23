@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcp_web_core_test", "gcp_web_core_test\gcp_web_core_test.csproj", "{D36303EC-39EF-4818-8252-9A63488597ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gcp_web_core_test", "gcp_web_core_test\gcp_web_core_test.csproj", "{D36303EC-39EF-4818-8252-9A63488597ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
